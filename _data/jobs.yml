@@ -14,8 +14,8 @@
   location:    'San Francisco, CA'
   current:     true
 
-- title:       'Data and Research Associate, Los Angeles Promise Zone (LAPZ) Initiative'
-  company:     'City of Los Angeles'
+- title:       'Data and Research Associate'
+  company:     'City of Los Angeles, Los Angeles Promise Zone (LAPZ) Initiative'
   company_url: 'https://www.lapromisezone.org/'
   description: "As the Data and Research Associate for the LAPZ Initiative, I played a key role in developing,
                   maintaining, and presenting the key performance indicators used to track progress towards achieving its strategic goals:
@@ -31,8 +31,8 @@
   location:    'Los Angeles, CA'
   current:     false
 
-- title:       'Postbaccalaureate Fellow, Data Analysis and Social Inquiry Lab (DASIL)'
-  company:     'Grinnell College'
+- title:       'Postbaccalaureate Fellow'
+  company:     'Grinnell College, Data Analysis and Social Inquiry Lab (DASIL)'
   company_url: 'https://dasil.sites.grinnell.edu/'
   description: "As the Postbaccalaureate Fellow, I primarily helped students and faculty across a wide variety of disciplines integrate data and research
                   methods into classroom curriculum:
