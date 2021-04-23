@@ -9,7 +9,7 @@
 
 - skill: "Visual and Information Design"
   icon: "fas fa-chart-area"
-  detail: "tableau"
+  detail: "tableau, python (streamlit, altair, matplotlib, seaborn)"
 
 - skill: "Data Analysis"
   icon: "fas fa-chart-bar"
@@ -21,4 +21,4 @@
 
 - skill: "Web Development"
   icon: "fas fa-server"
-  detail: "HTML/CSS/JS"
+  detail: "HTML/CSS"
