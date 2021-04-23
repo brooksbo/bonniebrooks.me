@@ -1,8 +1,8 @@
 ---
 title: "Publication: Supporting Student Parents in Community College CalWORKs Programs"
-categories: ["publication", "higher education"]
+categories: ["publication", "higher education", "safety net", "talk"]
 image: student-supports.png
-visit: https://www.ppic.org/event/supporting-student-parents-in-community-college-calworks-programs/
+visit: https://www.ppic.org/publication/supporting-student-parents-in-community-college-calworks-programs/
 ---
 
 ##### About
@@ -18,4 +18,5 @@ they provide to students."
 ##### Details
 
 - **Date:** 2020-10-27
-- **Website:** [PPIC](https://www.ppic.org/wp-content/uploads/supporting-student-parents-in-community-college-calworks-programs-october-2020.pdf)
+- **Publication:** [PPIC](https://www.ppic.org/wp-content/uploads/supporting-student-parents-in-community-college-calworks-programs-october-2020.pdf)
+- **Research Briefing:** [PPIC](https://www.ppic.org/event/supporting-student-parents-in-community-college-calworks-programs/)
