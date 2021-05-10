@@ -1,9 +1,9 @@
 # Site
 name: 'Hello, my name is Bonnie'
 description: 'Where data nerdery meets artistry.'
-logo: 'assets/images/logo.png'
-logo_full: 'assets/images/logo.png'
-favicon: 'assets/images/icon.ico'
+logo: ''
+logo_full: ''
+favicon: ''
 baseurl: '/'
 url: "https://bonniebrooks.me"
 email: 'bonnie@bonniebrooks.me'
