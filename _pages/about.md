@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about"
-image: "/assets/images/cimarron-logo-no-background.png"
+image: ""
 ---
 
 TODO
